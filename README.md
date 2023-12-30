@@ -26,5 +26,5 @@ The application provides easy services for farmers to access and manage their fa
 <img src= "https://github.com/haandx/s.farm/assets/142608001/6561445b-d746-4e9c-bd83-e879863f8996" width = "500">
 </div>
 
-## hardwar prototype  :
+## hardware prototype  :
 <img src= "https://github.com/haandx/s.farm/assets/142608001/3e2733f8-ffe1-4efc-a1b8-add2a31f2e73" width = "500">
